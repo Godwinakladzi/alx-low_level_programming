@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * main - Entry point
+ * Description:print putchar 
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	char c[10] = "_putchar";
